@@ -1,0 +1,23 @@
+Había una vez un joven programador llamado Ramiro, quien se embarcó en una emocionante aventura 
+para aprender a usar Git, una herramienta poderosa para el control de versiones. En su búsqueda 
+del conocimiento, Ramiro se encontró con un viejo maestro llamado Gitano, que vivía en una 
+tranquila aldea en lo profundo del bosque digital.
+
+Gitano vio la pasión en los ojos de Ramiro y decidió enseñarle el arte del control de versiones. 
+Le habló de ramas y fusiones, de confirmaciones y conflictos, mientras paseaban por los árboles 
+binarios del bosque. Ramiro escuchó atentamente y, con el tiempo, comenzó a entender cómo usar 
+Git para mantener un registro ordenado de su código.
+
+Un día, Gitano le habló a Ramiro sobre el "repositorio mágico", un lugar especial donde los 
+cambios se guardaban como tesoros en cofres virtuales. Ramiro estaba emocionado por esta nueva
+lección y siguió a Gitano hasta lo más profundo del bosque, donde encontraron una puerta digital. 
+Al cruzarla, entraron en un mundo virtual asombroso.
+
+Dentro del repositorio mágico, Ramiro pudo ver todas sus modificaciones como estrellas brillantes 
+en el cielo de la programación. Cada confirmación era como una constelación única. Gitano le mostró
+cómo fusionar ramas y resolver conflictos, transformando las estrellas en formas más hermosas y 
+complejas.
+
+Después de semanas de entrenamiento, Ramiro se convirtió en un maestro del control de versiones. 
+Regresó a su vida cotidiana, pero siempre recordó las lecciones del bosque y el repositorio mágico. Compartió su conocimiento con otros programadores, guiándolos en sus propios viajes de aprendizaje.
+
